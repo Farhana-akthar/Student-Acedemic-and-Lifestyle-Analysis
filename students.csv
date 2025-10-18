@@ -1,0 +1,11 @@
+Student_ID,Age,Gender,Study_Hours,Sleep_Hours,Attendance,GPA,Extracurricular,Internet_Usage,Social_Media_Hours
+S1001,18,Male,5,7,85,3.2,Yes,3,2
+S1002,19,Female,6,8,92,3.8,No,2,1
+S1003,20,Male,3,6,70,2.5,Yes,5,4
+S1004,21,Female,4,7,80,3.0,No,4,3
+S1005,18,Male,7,8,95,3.9,Yes,3,1
+S1006,19,Female,2,6,65,2.2,No,6,5
+S1007,20,Male,5,7,88,3.5,Yes,2,2
+S1008,21,Female,4,7,75,2.9,No,4,3
+S1009,19,Male,6,8,90,3.6,Yes,3,1
+S1010,18,Female,3,6,72,2.7,No,5,4
